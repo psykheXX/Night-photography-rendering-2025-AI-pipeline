@@ -15,9 +15,11 @@ combines noise reduction and edge enhancement to further optimize image quality 
 
 We won the fifth place in the fourth phase of the NTIRE 2025 Night Photography Rendering Challenge.
 
-** And we got the 4th place in the final test. ** 
+And we got the 4th place in the final test. 
+
 ![result](picture/final_rank.png)
 
+We also wrote a [document] summarizing and describing our work, with many quotations from the paper IAT[paper](https://arxiv.org/abs/2205.14871) and SCUNet[paper](https://arxiv.org/pdf/2203.13278).
 
 ## Configuration
 ```
