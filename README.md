@@ -19,7 +19,7 @@ And we got the 4th place in the final test.
 
 ![result](picture/final_rank.png)
 
-We also wrote a [document] summarizing and describing our work, with many quotations from the paper IAT[paper](https://arxiv.org/abs/2205.14871) and SCUNet[paper](https://arxiv.org/pdf/2203.13278).
+We also wrote a [document](document.pdf) summarizing and describing our work, with many quotations from the paper IAT[paper](https://arxiv.org/abs/2205.14871) and SCUNet[paper](https://arxiv.org/pdf/2203.13278).
 
 ## Configuration
 ```
