@@ -13,8 +13,10 @@ combines noise reduction and edge enhancement to further optimize image quality 
 
 ### The purpose of participating in the competition is purely for scientific research training.
 
-We won the fifth place in the fourth phase of the NTIRE 2025 Night Photography Rendering Challenge (as of 2025/3/16)
-![result](picture/val4_result.png)
+We won the fifth place in the fourth phase of the NTIRE 2025 Night Photography Rendering Challenge.
+
+** And we got the 4th place in the final test. (
+![result](picture/final_rank.png)
 
 
 ## Configuration
